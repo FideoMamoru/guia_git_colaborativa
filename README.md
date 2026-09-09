@@ -4,7 +4,7 @@ Este repositorio es un ejercicio práctico para aprender Git en parejas.
 
 ## Objetivo
 
-Aprender a usar ramas y merges.
+Dominar Git para trabajo colaborativo.
 
 ## Conceptos básicos de Git
 
